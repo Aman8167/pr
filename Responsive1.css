@@ -1,0 +1,25 @@
+.card-1{
+    background-color: skyblue;
+    width:90%;
+    margin:auto;
+}
+.container-fluid{
+    height:130vh;
+    background-color:skyblue;
+}
+#SelectOption{
+    margin-left:53%;
+    width:47%;
+   
+}
+
+
+#btn{
+    width:29%;
+   
+}
+#btn1{
+    width:29%;
+    margin-left:20%;
+   
+}
